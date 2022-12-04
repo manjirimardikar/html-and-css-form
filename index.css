@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+form{
+    width: 800px;
+    padding: 20px;
+    box-shadow: 0 0 8px 0 #30475e, 0 0 8px 0 #30475e;
+}
+.box{
+   width: 50%;
+   padding: 10px;
+   border: none;
+   border-radius: 10px;
+   box-sizing:border-box;
+   margin: 10px 0 15px 0 ;
+   background-color: whitesmoke;
+}
+.dob{
+    width: 10%;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    box-sizing:border-box;
+    margin: 10px 0 15px 0 ;
+    background-color: whitesmoke;
+}
+.d{
+   display: inline-block;
+}
